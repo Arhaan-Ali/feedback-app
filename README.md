@@ -9,6 +9,9 @@ A small Java 17 + Maven application that serves a single-page HTML feedback form
 - Docker Desktop / Docker Engine (for the Docker stage)
 - GitHub repository and a Jenkins agent with Java 17 + Maven
 
+## Feature Update
+Online Feedback form successfully added.
+
 ## 1. Stop existing local development servers
 
 **Windows PowerShell** — stop processes listening on common development ports (3000, 5000, 8000, 8080, 8081, 8082, 8888):
